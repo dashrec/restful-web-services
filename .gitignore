@@ -10,8 +10,9 @@
 .springBeans
 .sts4-cache
 
-application.properties
-application-dev.properties
+src/main/resources/application.properties
+src/main/resources/application-dev.properties
+
 
 # Created by https://www.gitignore.io/api/git,java,maven,eclipse,windows
 
