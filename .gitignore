@@ -10,8 +10,9 @@ tmp/
 *.swp
 *~.nib
 local.properties
-src/main/resources/
-src/main/resources/
+
+resources/
+
 
 .settings/
 .loadpath
