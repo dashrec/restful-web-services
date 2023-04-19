@@ -11,7 +11,8 @@ tmp/
 *~.nib
 local.properties
 
-
+application-dev.properties
+application.properties
 
 
 .settings/
