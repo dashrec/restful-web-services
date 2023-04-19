@@ -10,9 +10,9 @@ tmp/
 *.swp
 *~.nib
 local.properties
+src/main/resources/
+src/main/resources/
 
-src/main/resources/
-src/main/resources/
 .settings/
 .loadpath
 .recommenders
@@ -71,4 +71,3 @@ src/main/resources/
 .sts4-cache/
 
 # End of https://www.toptal.com/developers/gitignore/api/eclipse
-
