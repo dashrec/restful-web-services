@@ -11,7 +11,8 @@ tmp/
 *~.nib
 local.properties
 
-
+src/main/resources/
+src/main/resources/
 .settings/
 .loadpath
 .recommenders
