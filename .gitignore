@@ -10,8 +10,7 @@ tmp/
 *.swp
 *~.nib
 local.properties
-src/main/resources/
-src/main/resources/
+
 
 .settings/
 .loadpath
@@ -71,3 +70,6 @@ src/main/resources/
 .sts4-cache/
 
 # End of https://www.toptal.com/developers/gitignore/api/eclipse
+
+# git rm -rf --cached .
+# git add .
